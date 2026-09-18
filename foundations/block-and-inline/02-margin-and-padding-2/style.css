@@ -18,10 +18,10 @@ body {
 }
 
 button {
-  background: white;
-  padding: 8px 32px 8px 32px;
   display: block;
   margin: 0 auto;
+  background: white;
+  padding: 8px 32px;
 }
 
 .title {
